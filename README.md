@@ -1,5 +1,5 @@
 # personal_portfolio
 This is the second version of my portfolio.
 
-En este proyecto se realiza básicamente con html, css y javascript. Se trata de dar un toque reactivo. Todo incluido en el index de html sin necesidad de utilizar varios archivos.
-Aqui aprovecho para que conozcan mi portafolio.
+In this project it is basically done with html, css and javascript. It is about giving a reactive touch. Everything included in the html index without the need to use several files.
+Here I take the opportunity to let you know my portfolio.
