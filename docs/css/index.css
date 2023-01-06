@@ -691,7 +691,7 @@ body{
     border-radius: 10px;
     background: #c70039;
 }
-.js-progress{
+.wp-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -701,36 +701,24 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
+    width:85%;
+    border-radius: 10px;
+    background: #c70039;
+}
+.javascript-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s ease;
     width:80%;
     border-radius: 10px;
     background: #c70039;
 }
-.react-progress{
-    position: absolute;
-    top:10%;
-    left:1%;
-    height: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all .4s ease;
-    width:60%;
-    border-radius: 10px;
-    background: #c70039;
-}
-.scrum-progress{
-    position: absolute;
-    top:10%;
-    left:1%;
-    height: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width:70%;
-    border-radius: 10px;
-    background: #c70039;
-    transition: all .4s ease;
-}
+
 .figma-progress{
     position: absolute;
     top:10%;
@@ -740,10 +728,39 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
+    width:70%;
+    border-radius: 10px;
+    background: #c70039;
+}
+
+.crm-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s ease;
     width:80%;
     border-radius: 10px;
     background: #c70039;
 }
+
+.git-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .4s ease;
+    width:85%;
+    border-radius: 10px;
+    background: #c70039;
+}
+
 .seo-progress{
     position: absolute;
     top:10%;
@@ -754,10 +771,10 @@ body{
     justify-content: center;
     width:80%;
     border-radius: 10px;
-    transition: all .4s ease;
     background: #c70039;
+    transition: all .4s ease;
 }
-.wordpress-progress{
+.react-progress{
     position: absolute;
     top:10%;
     left:1%;
@@ -765,11 +782,25 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:87%;
+    transition: all .4s ease;
+    width:70%;
+    border-radius: 10px;
+    background: #c70039;
+}
+.sql-progress{
+    position: absolute;
+    top:10%;
+    left:1%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:75%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #c70039;
 }
+.
 .portfolio-header{
     height: auto;
     width: 100%;
