@@ -492,7 +492,7 @@ body{
 }
 .about-img img{
     width: 100%;
-    height:380px;
+    height:480px;
     padding: 30px;
     border-radius: 40px;
 }
@@ -800,7 +800,7 @@ body{
     transition: all .4s ease;
     background: #c70039;
 }
-.
+
 .portfolio-header{
     height: auto;
     width: 100%;
