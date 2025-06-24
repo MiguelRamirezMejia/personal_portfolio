@@ -30,19 +30,25 @@
 .html-progress{
     background: #00909e;
 }
-.js-progress{
-    background: #00909e;
-}
-.adobe-progress{
-    background: #00909e;
-}
-.php-progress{
-    background: #00909e;
-}
-.jquery-progress{
+.javascript-progress{
     background: #00909e;
 }
 .seo-progress{
+    background: #00909e;
+}
+.wp-progress{
+    background: #00909e;
+}
+.react-progress{
+    background: #00909e;
+}
+.git-progress{
+    background: #00909e;
+}
+.sql-progress{
+    background: #00909e;
+}
+.crm-progress{
     background: #00909e;
 }
 .portfolio-text h2{
