@@ -2,6 +2,18 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins:500&display=swap');
+@import url(color-blue.css);
+@import url(color-green.css);
+@import url(color-malt.css);
+@import url(color-orange.css);
+@import url(color-red.css);
+@import url(color-purple.css);
+
+
+
+
+
+
 *{
     padding: 0%;
     margin: 0%;
@@ -477,8 +489,8 @@ body{
 }
 .about-second-line{
     opacity: .8;
-    font-size: 18px;
-    font-weight: 200;
+    font-size: 14px;
+    font-weight: 100;
 }
 .about-main{
     display: flex;
