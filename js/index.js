@@ -190,3 +190,20 @@ $(function(){
   $('.navigation-close').hover(cursorhover,cursor);
 
 })
+
+
+  const tabs = document.querySelectorAll('.tab-button');
+  const contents = document.querySelectorAll('.tab-content');
+
+  tabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.forEach(btn => btn.classList.remove('active'));
+      tab.classList.add('active');
+
+      const target = tab.dataset.tab;
+      contents.forEach(content => {
+        content.classList.toggle('active', content.id === target);
+      });
+    });
+  });
+
